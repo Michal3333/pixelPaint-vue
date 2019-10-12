@@ -2,9 +2,9 @@
 
 ## Project Description
 PixelPaint is a simple pixel drawing editor.
-  Current verion provide several features:
-    - 2 drawing modes: single pixel and whole canvas;
-    - color picker;
+&nbsp;Current verion provide several features:
+&nbsp;&nbsp;- 2 drawing modes: single pixel and whole canvas;
+&nbsp;&nbsp;- color picker;
     - drawing resolution selector;
    
 
