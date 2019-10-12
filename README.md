@@ -1,4 +1,4 @@
-# firstproject
+# PixelPaint
 
 ## Project setup
 ```
