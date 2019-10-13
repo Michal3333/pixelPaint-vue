@@ -13,7 +13,7 @@ export default {
 </script>
 <style scoped>
     .title{
-        font-size: 40px;
+        font-size: calc(40px + 0.5vw);
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin-bottom: 5px;
         color: rgb(70, 70, 70);

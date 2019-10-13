@@ -119,30 +119,30 @@ export default {
 .panel{
   width: 35vw;
   height: 35vw;
-  min-width: 800px;
-  min-height: 800px;
+  min-width: 500px;
+  min-height: 500px;
   display: grid;
   border: solid 5px gray;
 }
 .picker{
   height: auto;
-  flex-basis: 85%;
-  width: 100%;
+  flex-basis: 80%;
+  /* width: 100%; */
 }
 .controlPanel{
   display: flex;
-  width: 100%;
+  /* width: 100%; */
   align-items: stretch;
-  min-height: 155px;
+  min-height: 110px;
 }
 .mode{
   height: auto;
-  flex-basis: 15%;
-  width: 100%;
+  flex-basis: 20%;
+  /* width: 100%; */
   /* height: 100%; */
 } 
 #all{
-  padding: 20px;
+  padding: calc(20px + 0.6vw);
   background-color:mintcream;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
@@ -150,18 +150,21 @@ export default {
   border: solid gray 3px
 }
 .resolution{
-  width: 13%;
-  height: 40px;
+  
+  /* font-size:calc(25px + 1.2vw); */
   font-size: 25px;
-  margin-top: 10px;
   border-width: 3px;
-  text-align: center
+  text-align: center;
+  width: 50%;
 }
 .inputR{
+  width: 50%;
+  min-height: 40px;
+  margin-top: calc(10px + 0.5vw);
   display: flexbox;
   align-items: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
-  font-size: 25px;
+  /* font-size:calc(25px + 1.5vw); */
   color: rgb(70, 70, 70);
 }
 

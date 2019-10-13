@@ -63,8 +63,8 @@ export default {
     grid-template-columns: repeat(10, 1fr [col-start]);
     grid-auto-rows : min-content;
     display: grid;
-    grid-gap: 20px 10px;
-    padding: 20px;
+    grid-gap: 10px 5px;
+    padding: 10px;
     background-color: rgb(200, 200, 200);
     border: solid gray 5px;
     border-bottom: none;

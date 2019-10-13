@@ -51,7 +51,7 @@ export default {
   .backgroud{
     transition-duration: 2.5s;
     height: 100vh;
-    padding: 100px;
+    padding: 1vh;
     display: flex;
     justify-content: center;
   }

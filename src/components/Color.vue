@@ -29,10 +29,10 @@ div.color{
     border: solid;
     transition-duration: 0.5s;
     border-radius: 10%;
-    height: 2vw;
-    width: 2vw;
-    min-width: 35px;
-    min-height: 35px;
+    height: 1.5vw;
+    width: 1.5vw;
+    min-width: 30px;
+    min-height: 30px;
     border: 3px solid gray;
 }
 div.color:hover{
@@ -40,7 +40,7 @@ div.color:hover{
 }
 div.selected{
     border-color: orange;
-    border-width: 4px;
+    /* border-width: 4px; */
 }
 div.selected:hover{
     border-color: yellow;
