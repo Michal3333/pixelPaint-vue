@@ -1,4 +1,12 @@
-# firstproject
+# PixelPaint
+
+## Project Description
+PixelPaint is a simple pixel drawing editor.
+* Current verion provide several features:
+  * 2 drawing modes: single pixel and whole canvas;
+  * color picker;
+  * drawing resolution selector;
+   
 
 ## Project setup
 ```
@@ -13,16 +21,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
